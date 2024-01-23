@@ -1,0 +1,49 @@
+
+    #d3{
+    height: 60px;
+    background-color: black;
+    border-color: white;
+    border-width: 1px;
+
+    }
+a{
+    margin-right: 180px;
+    color: white;
+    text-decoration: none;
+
+}
+#amazon{
+    font-size: 25px;
+    color: chocolate;
+}
+button{
+    background-color: orange;
+}
+.content{
+padding: 100px 50px;
+}
+.contentbox{
+    height: 200px;
+    width: 62%;
+    border: 2px solid black;
+   display: inline-block;
+  margin: 20px;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.content1{
+    height: 608px;
+    width: 33.6%;
+    background-color: aqua;
+    position: absolute;
+    top: 68px;
+    left: 65.5%;
+    border: 2px solid black;
+    border-top: 3px solid black;
+}
+body{
+    border: 5px solid blue
+}

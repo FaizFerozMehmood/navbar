@@ -1,0 +1,27 @@
+
+body{ 
+    background-color: rgb(119, 119, 206);
+}
+    div{
+    height: 60px;
+    background-color: black;
+    /* padding-left: 20px; */
+    /* padding-right: 20px; */
+    margin-top: 10px;
+    border-color: white;
+    border-width: 2px;
+
+    }
+a{
+    margin-right: 200px;
+    color: white;
+    text-decoration: none;
+
+}
+#amazon{
+    font-size: 25px;
+    color: chocolate;
+}
+button{
+    background-color: orange;
+}
